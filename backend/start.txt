@@ -3,3 +3,4 @@
 3) we can change properties using application.properties file
 4) we create a new controller(HomeController.java) go over there
 5) goto frontend>start.txt for that project details
+6) to start application we an either use spring dashboard in VScode or using teh run option in main class

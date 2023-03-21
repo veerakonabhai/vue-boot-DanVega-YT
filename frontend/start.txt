@@ -1,2 +1,4 @@
 1) we created this project using terminal("vue create frontend"), vue-cli is needed.
-2) 
+2) we make changes in App.vue so that it talks with backend and takes it's response to display in frontend
+3) we need to start the SpringBootApplication before running the frontend
+4) run frontend using cmd "npm run serve"
