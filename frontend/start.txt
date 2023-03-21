@@ -1,0 +1,2 @@
+1) we created this project using terminal("vue create frontend"), vue-cli is needed.
+2) 
