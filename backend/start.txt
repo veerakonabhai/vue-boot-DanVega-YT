@@ -1,0 +1,5 @@
+1) command palette in VSCode (ctrl+shift+p) -> spring initializer-generate maven project -> select/enter the required fields
+2) goto src>main>java>...*Application.java(class having @SpringBootApplication) where we actually start our application
+3) we can change properties using application.properties file
+4) we create a new controller(HomeController.java) go over there
+5) goto frontend>start.txt for that project details
